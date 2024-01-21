@@ -1,0 +1,21 @@
+D:\cpp project\DesktopC_sharpProject\TicTacToeGame\bin\Debug\TicTacToeGame.exe.config
+D:\cpp project\DesktopC_sharpProject\TicTacToeGame\bin\Debug\TicTacToeGame.exe
+D:\cpp project\DesktopC_sharpProject\TicTacToeGame\bin\Debug\TicTacToeGame.pdb
+D:\cpp project\DesktopC_sharpProject\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.AssemblyReference.cache
+D:\cpp project\DesktopC_sharpProject\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.SuggestedBindingRedirects.cache
+D:\cpp project\DesktopC_sharpProject\TicTacToeGame\obj\Debug\TicTacToeGame.Form1.resources
+D:\cpp project\DesktopC_sharpProject\TicTacToeGame\obj\Debug\TicTacToeGame.Properties.Resources.resources
+D:\cpp project\DesktopC_sharpProject\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.GenerateResource.cache
+D:\cpp project\DesktopC_sharpProject\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.CoreCompileInputs.cache
+D:\cpp project\DesktopC_sharpProject\TicTacToeGame\obj\Debug\TicTacToeGame.exe
+D:\cpp project\DesktopC_sharpProject\TicTacToeGame\obj\Debug\TicTacToeGame.pdb
+D:\cpp_project\DesktopC_sharpProject\TicTacToeGame\bin\Debug\TicTacToeGame.exe.config
+D:\cpp_project\DesktopC_sharpProject\TicTacToeGame\bin\Debug\TicTacToeGame.exe
+D:\cpp_project\DesktopC_sharpProject\TicTacToeGame\bin\Debug\TicTacToeGame.pdb
+D:\cpp_project\DesktopC_sharpProject\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.AssemblyReference.cache
+D:\cpp_project\DesktopC_sharpProject\TicTacToeGame\obj\Debug\TicTacToeGame.Form1.resources
+D:\cpp_project\DesktopC_sharpProject\TicTacToeGame\obj\Debug\TicTacToeGame.Properties.Resources.resources
+D:\cpp_project\DesktopC_sharpProject\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.GenerateResource.cache
+D:\cpp_project\DesktopC_sharpProject\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.CoreCompileInputs.cache
+D:\cpp_project\DesktopC_sharpProject\TicTacToeGame\obj\Debug\TicTacToeGame.exe
+D:\cpp_project\DesktopC_sharpProject\TicTacToeGame\obj\Debug\TicTacToeGame.pdb
